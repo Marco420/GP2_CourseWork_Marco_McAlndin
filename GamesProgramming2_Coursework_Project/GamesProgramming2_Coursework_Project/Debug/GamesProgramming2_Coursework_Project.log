@@ -1,0 +1,8 @@
+﻿  Game.cpp
+  GamesProgramming2_Coursework_Project.cpp
+  Mesh.cpp
+c:\users\marco\source\repos\gamesprogramming2_coursework_project\gamesprogramming2_coursework_project\mesh.cpp(71): warning C4930: 'Sphere sphere(void)': prototyped function not called (was a variable definition intended?)
+  Shader.cpp
+  Texture.cpp
+  Generating Code...
+  GamesProgramming2_Coursework_Project.vcxproj -> C:\Users\Marco\source\repos\GamesProgramming2_Coursework_Project\Debug\GamesProgramming2_Coursework_Project.exe
